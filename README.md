@@ -1,5 +1,6 @@
 SS-Panel-smarty-Edition的分支版本
 
+想看到最新的内容请点击 <a href="#new_start" >这里</a>
 
 以下为之前的介绍内容:
 
@@ -148,3 +149,8 @@ $ php composer.phar  install
 * [material](https://github.com/Daemonite/material)
 * [淘宝IP地址库](http://ip.taobao.com)
 * [IPIP.NET](https://www.ipip.net)
+
+
+<a name="new_start" id="new_start">这里是新的开始:</a>
+
+aaa
