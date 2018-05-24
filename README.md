@@ -131,6 +131,7 @@ $ python serverinfo.py //本脚本可独立于Shadowsocks服务端运行/The scr
 ```
 [点击这里](https://github.com/Ahref-Group/SS-Panel-smarty-Edition/issues/26)
 ```
+[或者点击这里](https://github.com/Ahref-Group/SS-Panel-smarty-Edition/issues/26)
 
 ### 使用 mail-gun 发邮件/Send mail using mail-gun
 运行/Run:
